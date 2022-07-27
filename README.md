@@ -31,7 +31,7 @@ After cloning this repository, migrate to `amazon_clone_flutter` folder. Then, f
 - Click on Connect, follow the process where you will get the uri.- Replace the MongoDB uri with yours in `server/index.js`.
 - Head to `lib/constants/global_variables.dart` file, replace <yourip> with your IP Address.
 - Create Cloudinary Project, enable unsigned operation in settings.
-- Head to `lib/features/admin/services/admin_services.dart`, replace `denfgaxvg` and `uszbstnu` with your Cloud Name and Upload Preset respectively.
+- Head to `lib/features/admin/services/admin_services.dart`, replace `denfgaxvg` and `uszbstnu` with your Cloud Name and Upload Preset respectively. Cloudinary is used get your cloud name from there
 
 Then run the following commands to run your app:
 
