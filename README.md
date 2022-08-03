@@ -58,3 +58,5 @@ Then run the following commands to run your app:
 **Server**: Node.js, Express, Mongoose, MongoDB, Cloudinary
 
 **Client**: Flutter, Provider
+
+  <p align = "center">Show Some &#128147; by &#11088; the Repositories! </p>
